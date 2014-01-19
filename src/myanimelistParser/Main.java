@@ -22,6 +22,7 @@ public class Main {
 		String search = reader.nextLine();
 		search.replaceAll(" ", "+");
 		
+		//ClientResource resource = new ClientResource("http://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=49");
 		ClientResource resource = new ClientResource("http://myanimelist.net/api/anime/search.xml?q=" + search);
 		ChallengeScheme scheme = ChallengeScheme.HTTP_BASIC;
 		ChallengeResponse authentication = new ChallengeResponse(scheme,"tabrislance", "racecar");  
@@ -30,7 +31,8 @@ public class Main {
 
 		String xmlString;
 		xmlString = resource.get().getText().toString();
-//		System.out.println(xmlString);
+		//xmlString = xmlString.substring(0, 2000)
+		System.out.println(xmlString);
 //		System.out.println(xmlString.length());
 
 		LinkedList<Anime> list = new LinkedList<Anime>();
