@@ -1,4 +1,4 @@
-package hummingbirdParser;
+package herroParser;
 
 import java.util.Random;
 
@@ -19,15 +19,15 @@ public class Main {
 		int id = random.nextInt(2000);
 		
 		try {
-			request = Unirest.get("https://hummingbirdv1.p.mashape.com/anime/" + id).header("X-Mashape-Authorization", "teZUDs9Pu1SIUs0yiUsAIvqo41mTinxt").asJson();
+			request = Unirest.get("http://api.herro.co/anime/5148d00e83b471715e000cef").asJson();
 		} catch (UnirestException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		Anime fate = new Anime(request.getBody());
+
 		
-		System.out.println(fate);
+		System.out.println(request.getBody().getObject().toString());
 	}
 
 }

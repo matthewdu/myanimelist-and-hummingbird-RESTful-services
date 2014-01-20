@@ -2,31 +2,48 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/restlet-android-2.1.6/lib/org.restlet.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/restlet-android-2.1.6/lib/org.restlet.ext.xml.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/jsoup-1.7.3-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/jsoup-1.7.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/commons-lang3-3.2.1/commons-lang3-3.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/commons-lang3-3.2.1/commons-lang3-3.2.1-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/commons-lang3-3.2.1/commons-lang3-3.2.1-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/commons-lang3-3.2.1/commons-lang3-3.2.1-tests.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/commons-lang3-3.2.1/commons-lang3-3.2.1-test-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/unirest-java-1.3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-client-4.3.1-bin/lib/httpclient-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-client-4.3.1-bin/lib/httpmime-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-client-4.3.1-bin/lib/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-client-4.3.1-bin/lib/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-client-4.3.1-bin/lib/fluent-hc-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-client-4.3.1-bin/lib/httpclient-cache-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-client-4.3.1-bin/lib/httpcore-4.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpasyncclient-4.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpasyncclient-cache-4.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpclient-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpclient-cache-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpcore-4.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpcore-nio-4.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/json-20090211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/androidasync-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/ion-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/json-20090211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/jsoup-1.7.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/retrofit-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/unirest-java-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.atom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.crypto.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.html.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.jaas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.jackson.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.net.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.odata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.rdf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.sip.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.ssl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.ext.xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/restlet-android-2.1.6/lib/org.restlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/commons-lang3-3.2.1/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/commons-lang3-3.2.1/commons-lang3-3.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpasyncclient-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpasyncclient-cache-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpclient-cache-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-asyncclient-4.0-bin/httpcomponents-asyncclient-4.0/lib/httpcore-nio-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-client-4.3.1-bin/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-client-4.3.1-bin/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-client-4.3.1-bin/lib/fluent-hc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-client-4.3.1-bin/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-client-4.3.1-bin/lib/httpclient-cache-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-client-4.3.1-bin/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-client-4.3.1-bin/lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-core-4.3.1/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-core-4.3.1/lib/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-core-4.3.1/lib/httpcore-ab-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Desktop/java libraries/httpcomponents-core-4.3.1/lib/httpcore-nio-4.3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
